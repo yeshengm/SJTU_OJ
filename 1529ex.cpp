@@ -51,5 +51,6 @@ int main()
     std::ios::sync_with_stdio(false);
     cin >> N >> k;
     getNum(0);
+	system("pause");
     return 0;
 }
