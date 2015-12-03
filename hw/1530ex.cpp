@@ -1,23 +1,17 @@
-/*input format:
-t: test number
-n: strlen str: order str: en/decode
-string
-*/
 #include "iostream"
 #include "fstream"
 #include "cstring"
-#include "string"
 #include "queue"
-#include "stack"
 using namespace std;
 //ifstream cin("1530.in");
+
 int t, n;
 char order[10], code[10];
 char str[1100000];
 
 int power(int i) {
 	int res = 1;
-	for (int j = 0; j < i; ++j)
+	while (i--)
 		res <<= 1;
 	return res;
 }
