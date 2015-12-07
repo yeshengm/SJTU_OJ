@@ -6,7 +6,6 @@ int asz, bsz, sumsz;
 
 int main()
 {
-    std::ios::sync_with_stdio(false);
     char ch;
     while ((ch = cin.get()) != '\n') a[asz++] = ch - '0';
     while ((ch = cin.get()) != '\n') b[bsz++] = ch -'0';

@@ -1,4 +1,4 @@
 # depslib dependency file v1.0
-1449247048 source:c:\users\ma yesheng\desktop\oj\sjtu oj\hw_revisited\test\main.cpp
-	"iostream"
+1449403670 source:c:\users\ma yesheng\desktop\oj\sjtu oj\hw_revisited\test\main.cpp
+	<iostream>
 
