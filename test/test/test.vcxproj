@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1233_path.cpp" />
+    <ClCompile Include="fuck.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3022F302-F16F-42A4-8E69-E89B957A8D6A}</ProjectGuid>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1233_path.cpp">
+    <ClCompile Include="fuck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
